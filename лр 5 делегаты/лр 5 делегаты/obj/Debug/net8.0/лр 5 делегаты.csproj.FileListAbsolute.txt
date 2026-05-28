@@ -1,0 +1,14 @@
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\bin\Debug\net8.0\лр 5 делегаты.exe
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\bin\Debug\net8.0\лр 5 делегаты.deps.json
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\bin\Debug\net8.0\лр 5 делегаты.runtimeconfig.json
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\bin\Debug\net8.0\лр 5 делегаты.dll
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\bin\Debug\net8.0\лр 5 делегаты.pdb
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\obj\Debug\net8.0\лр 5 делегаты.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\obj\Debug\net8.0\лр 5 делегаты.AssemblyInfoInputs.cache
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\obj\Debug\net8.0\лр 5 делегаты.AssemblyInfo.cs
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\obj\Debug\net8.0\лр 5 делегаты.csproj.CoreCompileInputs.cache
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\obj\Debug\net8.0\лр 5 делегаты.dll
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\obj\Debug\net8.0\refint\лр 5 делегаты.dll
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\obj\Debug\net8.0\лр 5 делегаты.pdb
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\obj\Debug\net8.0\лр 5 делегаты.genruntimeconfig.cache
+C:\Users\huawei-yana\source\repos\лр 5 делегаты\лр 5 делегаты\obj\Debug\net8.0\ref\лр 5 делегаты.dll

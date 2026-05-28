@@ -1,0 +1,14 @@
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\bin\Debug\net8.0\структуры лр 4.exe
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\bin\Debug\net8.0\структуры лр 4.deps.json
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\bin\Debug\net8.0\структуры лр 4.runtimeconfig.json
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\bin\Debug\net8.0\структуры лр 4.dll
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\bin\Debug\net8.0\структуры лр 4.pdb
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\obj\Debug\net8.0\структуры лр 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\obj\Debug\net8.0\структуры лр 4.AssemblyInfoInputs.cache
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\obj\Debug\net8.0\структуры лр 4.AssemblyInfo.cs
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\obj\Debug\net8.0\структуры лр 4.csproj.CoreCompileInputs.cache
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\obj\Debug\net8.0\структуры лр 4.dll
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\obj\Debug\net8.0\refint\структуры лр 4.dll
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\obj\Debug\net8.0\структуры лр 4.pdb
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\obj\Debug\net8.0\структуры лр 4.genruntimeconfig.cache
+C:\Users\huawei-yana\source\repos\структуры лр 4\структуры лр 4\obj\Debug\net8.0\ref\структуры лр 4.dll

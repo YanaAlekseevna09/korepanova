@@ -1,0 +1,4 @@
+C:\Users\huawei-yana\source\repos\лр 7\лр 7\obj\Debug\net8.0\лр 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei-yana\source\repos\лр 7\лр 7\obj\Debug\net8.0\лр 7.AssemblyInfoInputs.cache
+C:\Users\huawei-yana\source\repos\лр 7\лр 7\obj\Debug\net8.0\лр 7.AssemblyInfo.cs
+C:\Users\huawei-yana\source\repos\лр 7\лр 7\obj\Debug\net8.0\лр 7.csproj.CoreCompileInputs.cache
